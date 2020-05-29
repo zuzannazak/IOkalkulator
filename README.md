@@ -1,2 +1,2 @@
-#Kalkulator
+#Kalkulator - intrukcja obslugi
 Prosty kalkulator.
