@@ -8,5 +8,6 @@ def dodaj(a,b):
 get info()
 a = int(input())
 b = int(input())
-dodaj(a,b)
+print(dodaj(a,b))
 
+print("tada")
